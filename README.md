@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmrGobran
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me [My x account](HTTP://www.x.com/GobranAmr)
 - ⚡ Fun fact: "It's always no problem" 😉
 
