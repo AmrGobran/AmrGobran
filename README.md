@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmrGobran
+- 👋 Hi, I’m Amr Gobran
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me [My x account](HTTP://www.x.com/GobranAmr)
